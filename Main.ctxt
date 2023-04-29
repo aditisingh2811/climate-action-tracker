@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=e
+comment2.target=double\ calculateElectricity(double)
+comment3.params=g
+comment3.target=double\ calculateGas(double)
+comment4.params=m\ p
+comment4.target=double\ calculateTransportation(double,\ double)
+comment5.params=w
+comment5.target=double\ calculateWaste(double)
+numComments=6
